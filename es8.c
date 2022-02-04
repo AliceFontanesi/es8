@@ -15,5 +15,6 @@ int main ()
             somma = somma + radice;
         }
     } while (num < 0);
+    printf("La somma è: %f \n", somma);
     return 0;
 }
